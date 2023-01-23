@@ -551,7 +551,7 @@ li a {
 /*______________________________________________Resposividade 1880px - 3000px__________________________________________________________________ */
 @media (max-width: 3000px) and (min-width: 2561px) {
   .card {
-    height: 71vh;
+    height: 80vh;
   }
   .aside {
     height: 800px;
